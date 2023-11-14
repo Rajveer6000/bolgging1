@@ -1,0 +1,54 @@
+.card {
+
+    background-color: aqua;
+    background-image: url("src\assets\pexels-miguel-á-padriñán-255379.jpg");
+    color: black;
+    height: auto;
+    object-fit: contain;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin: 10px;
+}
+
+
+input {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    border-bottom: 2px solid rgb(0, 0, 0);
+}
+
+.button1 {
+    background-color: aqua;
+    border: solid black 2px;
+    height: 50px;
+    width: 150px;
+    border-radius: 10px;
+
+}
+
+.button2 {
+    background-color: rgb(255, 0, 0);
+    border: solid black 2px;
+    border-radius: 15px;
+
+}
+
+.deletbutton {
+    padding: 0px 29%;
+    align-items: center;
+}
+
+.addbutton {
+    padding: 0px 29%;
+    align-items: center;
+}
+
+.content {
+    padding: 0px 37%;
+    align-items: center;
+    /* padding: auto 30%; */
+    background-image: url("src\assets\pexels-pixabay-259915.jpg");
+}
